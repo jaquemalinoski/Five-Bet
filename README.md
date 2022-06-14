@@ -5,7 +5,7 @@
 
 # :bulb: Descrição
 
-Five Bet é uma plataforma de aposta, onde mostra jogos em tempo real, onde o usuários pode se cadastrar e apostar no time da casa, no visitante ou no empata, as apostas são calculadas em tempo real de acordo com a probabilidade de vitória, possui tbm um sistema de afiliados, onde cada usuário que se cadastrar com um link de afiliado, o dono do link e o novo usuário ganham $20 dólars cada, além de um sistema que simula a compra de dinheiro virtual para apostas, é possível também editar sua foto e senhas na aba settings.
+Five Bet é uma plataforma de aposta, mostrando os jogos em tempo real, o usuário pode se cadastrar e apostar no time da casa, no visitante ou no empate, as apostas são calculadas em tempo real de acordo com a probabilidade de vitória, possui também um sistema de afiliados, onde cada usuário que se cadastrar com um link de afiliado, o dono do link e o novo usuário ganham $20 dólares cada, possui tbm sistema que simula a compra de dinheiro virtual para apostas, além de ser possível editar sua foto e senha após logar na plataforma.
 
 # :link: Link da aplicação
 
@@ -23,3 +23,5 @@ https://capstone-group2-alex-rho.vercel.app/
 - React Router Dom 
 - React Toastfy
 - Material UI
+- JsonServer
+- Phosphor Icons
